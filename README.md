@@ -1,7 +1,8 @@
 * An simple Program to learn PE Head Format（For x64 only）
 * function:
-	1.list basic info
-	2.list the Section Info
-	3.trace IAT Table ,list the DLL and API import
+	1. list basic info
+	2. list the Section Info
+	3. trace IAT Table ,list the DLL and API import
 	
 * Usage: TestPEView.exe taget.exe
+* Complier Enviroment :Visual C++ 6.0 Win7
